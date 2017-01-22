@@ -17,7 +17,7 @@ public class AppBasics {
 
 	public static void farewellUser(String userName, String appName) {
 		// TODO Auto-generated method stub
-		System.out.println("Thank you for using the " + appName + " application.");
+		System.out.println("/n Thank you for using the " + appName + " application.");
 		System.out.println("Good Bye " + userName + " and have a great day!");
 	}
 
